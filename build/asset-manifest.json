@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Porfolio.github.io/static/css/main.8acade00.css",
-    "main.js": "/Porfolio.github.io/static/js/main.fc2940c2.js",
+    "main.js": "/Porfolio.github.io/static/js/main.e7621da9.js",
     "static/js/787.1ed0c42c.chunk.js": "/Porfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/relvise-big.png": "/Porfolio.github.io/static/media/relvise-big.a8bf984bed50de5de181.png",
     "static/media/header-bg.jpg": "/Porfolio.github.io/static/media/header-bg.72e3b1a2b6247f267199.jpg",
@@ -25,11 +25,11 @@
     "static/media/linkedIn.svg": "/Porfolio.github.io/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/Porfolio.github.io/index.html",
     "main.8acade00.css.map": "/Porfolio.github.io/static/css/main.8acade00.css.map",
-    "main.fc2940c2.js.map": "/Porfolio.github.io/static/js/main.fc2940c2.js.map",
+    "main.e7621da9.js.map": "/Porfolio.github.io/static/js/main.e7621da9.js.map",
     "787.1ed0c42c.chunk.js.map": "/Porfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8acade00.css",
-    "static/js/main.fc2940c2.js"
+    "static/js/main.e7621da9.js"
   ]
 }
