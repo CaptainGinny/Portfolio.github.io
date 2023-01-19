@@ -13,7 +13,7 @@ export default function Contacts() {
               <p>Minsk, Belarus</p>
             </li>
             <li className="content-list__item">
-              <h2 className="title-2">Telegram / WhatsApp???</h2>
+              <h2 className="title-2">Telegram / WhatsApp</h2>
               <p>
                 <a href="tel:+375444818077">+375 (44) 481-80-77</a>
               </p>
