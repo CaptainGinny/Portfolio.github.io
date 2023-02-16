@@ -14,8 +14,8 @@ export default function Header() {
           <div className="header__text">
             <p>with passion for learning and creating.</p>
           </div>
-          <a href="#!" className="btn">
-            Download CV
+          <a href="https://transparent-aspen-664.notion.site/Malko-Yevgeniy-CV-426f01d8e06a40df822cf1acecf0e69e" className="btn" target="blank">
+            Open CV
           </a>
         </div>
       </header>
