@@ -7,7 +7,7 @@ import mycompanyprojectBig from "./../img/projects/mycompany-big.png";
 import thirdproject from "./../img/projects/sitelayout.png";
 import thirdprojectBig from "./../img/projects/sitelayout-big.png";
 
-import reactpractice from "./../img/projects/reactpractice.png";
+import reactpractice from "./../img/projects/reactpractice.png"; 
 import reactpracticeBig from "./../img/projects/reactpractice-big.png";
 
 import project05 from "./../img/projects/relvise.png";
@@ -53,7 +53,7 @@ const projects = [
     img: reactpractice,
     imgBig: reactpracticeBig,
     gitHubLink:
-      "https://captainginny.github.io/react-and-typescript-practice.github.io",
+      "https://captainginny.github.io/React-and-typescript-practice.github.io/",
   },
   {
     id: 4,
