@@ -12,22 +12,22 @@ export default function Footer() {
           <div className="footer__wrapper">
             <ul className="social">
             <li className="social__item">
-                <a href="https://github.com/CaptainGinny">
+                <a href="https://github.com/CaptainGinny" target="blank">
                   <img src={gitHub} alt="Link" />
                 </a>
               </li>
               <li className="social__item">
-                <a href="https://www.linkedin.com/in/yauheni-malko-54a031257">
+                <a href="https://www.linkedin.com/in/yauheni-malko-54a031257" target="blank">
                   <img src={linkedIn} alt="Link" />
                 </a>
               </li>
               <li className="social__item">
-                <a href="https://twitter.com/Captain__Ginny">
+                <a href="https://twitter.com/Captain__Ginny" target="blank">
                   <img src={twitter} alt="Link" />
                 </a>
               </li>
               <li className="social__item">
-                <a href="https://t.me/CaptainGinny">
+                <a href="https://t.me/CaptainGinny" target="blank">
                   <img src={telegram} alt="Telegram" />
                 </a>
               </li>
