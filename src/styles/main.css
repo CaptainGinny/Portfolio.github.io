@@ -94,8 +94,8 @@ body {
 }
 
 .title-2 {
-	margin-bottom: 20px;
-	margin-top: 50px;
+	margin-bottom: 15px;
+	/* margin-top: 30px; */
 
 	font-size: 40px;
 	font-weight: 700;
@@ -349,7 +349,8 @@ body {
 }
 
 .content-list__item {
-	font-size: 18px;
+
+	font-size: 20px;
 	line-height: 1.5;
 }
 
@@ -419,12 +420,10 @@ body {
 	}
 
 	.title-1 {
-		margin-bottom: 30px;
 		font-size: 40px;
 	}
 
 	.title-2 {
-		margin-bottom: 10px;
 		font-size: 30px;
 	}
 
