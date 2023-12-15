@@ -19,6 +19,9 @@ import coloursBig from './../img/projects/colours-big.png';
 import calculator from './../img/projects/calculator.png';
 import calculatorBig from './../img/projects/calculator-big.png';
 
+import jqueryproject from './../img/projects/jquery-project.png';
+import jqueryprojectBig from './../img/projects/jquery-project.png';
+
 import reactpizza from './../img/projects/react-pizza.png';
 import reactpizzaBig from './../img/projects/react-pizza.png';
 
@@ -81,6 +84,14 @@ const projects = [
   },
   {
     id: 7,
+    title: 'jQuery-project',
+    skills: 'jQuery, HTML, CSS, ReactJS',
+    img: jqueryproject,
+    imgBig: jqueryprojectBig,
+    gitHubLink: 'https://captainginny.github.io/jQuery-project.github.io/',
+  },
+  {
+    id: 8,
     title: 'React-Pizza',
     skills:
       'ReactJS 18, TypeScript, Redux Toolkit, React Router v6, Axios + Fetch, React Hooks, Prettier, CSS-Modules / SCSS, React Content Loader, React Pagination, Lodash.Debounce, Code Splitting, React Loadable',
