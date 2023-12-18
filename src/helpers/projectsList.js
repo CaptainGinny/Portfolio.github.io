@@ -16,8 +16,8 @@ import project05Big from './../img/projects/relvise-big.png';
 import colours from './../img/projects/colours.png';
 import coloursBig from './../img/projects/colours-big.png';
 
-// import calculator from './../img/projects/calculator.png';
-// import calculatorBig from './../img/projects/calculator-big.png';
+import calculator from './../img/projects/calculator.png';
+import calculatorBig from './../img/projects/calculator-big.png';
 
 import jqueryproject from './../img/projects/jquery-project.png';
 import jqueryprojectBig from './../img/projects/jquery-project.png';
@@ -74,14 +74,14 @@ const projects = [
     imgBig: coloursBig,
     gitHubLink: 'https://captainginny.github.io/Project-Coluors-github.io',
   },
-  // {
-  //   id: 6,
-  //   title: 'Loan-Calculator',
-  //   skills: 'JavaScript, HTML',
-  //   img: calculator,
-  //   imgBig: calculatorBig,
-  //   gitHubLink: 'https://captainginny.github.io/Loan-Calculator/',
-  // },
+  {
+    id: 6,
+    title: 'Loan-Calculator',
+    skills: 'JavaScript, HTML',
+    img: calculator,
+    imgBig: calculatorBig,
+    gitHubLink: 'https://captainginny.github.io/Loan-Calculator/',
+  },
   {
     id: 7,
     title: 'jQuery-project',

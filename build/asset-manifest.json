@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Porfolio.github.io/static/css/main.67236852.css",
-    "main.js": "/Porfolio.github.io/static/js/main.2c66daa2.js",
+    "main.js": "/Porfolio.github.io/static/js/main.b842ab27.js",
     "static/js/787.1ed0c42c.chunk.js": "/Porfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/jquery-project.png": "/Porfolio.github.io/static/media/jquery-project.78018ebb74ea9eea327b.png",
     "static/media/relvise-big.png": "/Porfolio.github.io/static/media/relvise-big.a8bf984bed50de5de181.png",
@@ -13,10 +13,12 @@
     "static/media/reactpractice-big.png": "/Porfolio.github.io/static/media/reactpractice-big.f46e9856c4fbdecd2d70.png",
     "static/media/sitelayout.png": "/Porfolio.github.io/static/media/sitelayout.934a2d7c706b92edae80.png",
     "static/media/mycompany-big.png": "/Porfolio.github.io/static/media/mycompany-big.dffb25f8fb93022bcfaf.png",
+    "static/media/calculator-big.png": "/Porfolio.github.io/static/media/calculator-big.2133696428dc99a56b4b.png",
     "static/media/watch.png": "/Porfolio.github.io/static/media/watch.5c4de7657d5416e4fe9c.png",
     "static/media/colours-big.png": "/Porfolio.github.io/static/media/colours-big.9ece6d1dcc9289ea5b4d.png",
     "static/media/reactpractice.png": "/Porfolio.github.io/static/media/reactpractice.043b586cb25eedb66f4d.png",
     "static/media/mycompany.png": "/Porfolio.github.io/static/media/mycompany.07d9b0faf0443c9e250b.png",
+    "static/media/calculator.png": "/Porfolio.github.io/static/media/calculator.71ca880daede31f2dddd.png",
     "static/media/sun.svg": "/Porfolio.github.io/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/Porfolio.github.io/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/Porfolio.github.io/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
@@ -26,11 +28,11 @@
     "static/media/telegram.svg": "/Porfolio.github.io/static/media/telegram.d69c31aca4e80479510fe8de6889bf01.svg",
     "index.html": "/Porfolio.github.io/index.html",
     "main.67236852.css.map": "/Porfolio.github.io/static/css/main.67236852.css.map",
-    "main.2c66daa2.js.map": "/Porfolio.github.io/static/js/main.2c66daa2.js.map",
+    "main.b842ab27.js.map": "/Porfolio.github.io/static/js/main.b842ab27.js.map",
     "787.1ed0c42c.chunk.js.map": "/Porfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67236852.css",
-    "static/js/main.2c66daa2.js"
+    "static/js/main.b842ab27.js"
   ]
 }
