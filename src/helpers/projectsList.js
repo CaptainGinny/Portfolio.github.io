@@ -19,11 +19,11 @@ import coloursBig from './../img/projects/colours-big.png';
 import calculator from './../img/projects/calculator.png';
 import calculatorBig from './../img/projects/calculator-big.png';
 
-import jqueryproject from './../img/projects/jquery-project.png';
-import jqueryprojectBig from './../img/projects/jquery-project.png';
+import jqueryproject from './../img/projects/jQuery-project.png';
+import jqueryprojectBig from './../img/projects/jQurey-project-big.png';
 
 import reactpizza from './../img/projects/react-pizza.png';
-import reactpizzaBig from './../img/projects/react-pizza.png';
+import reactpizzaBig from './../img/projects/react-pizza-big.png';
 
 const projects = [
   {
