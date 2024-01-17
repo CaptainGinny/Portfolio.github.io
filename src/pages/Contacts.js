@@ -19,7 +19,7 @@ export default function Contacts() {
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Email</h2>
-              <p>
+              <p className="content-list-item">
                 <a href="mailto:ginnymalko@gmail.com">ginnymalko@gmail.com</a>
               </p>
             </li>
