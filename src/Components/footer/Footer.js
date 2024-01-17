@@ -1,4 +1,5 @@
 import React from 'react';
+import cv from './../../img/icons/cv.svg';
 import twitter from './../../img/icons/twitter.svg';
 import gitHub from './../../img/icons/gitHub.svg';
 import linkedIn from './../../img/icons/linkedIn.svg';
@@ -11,6 +12,13 @@ export default function Footer() {
         <div className="container">
           <div className="footer__wrapper">
             <ul className="social">
+              <li className="social__item">
+                <a
+                  href="https://transparent-aspen-664.notion.site/IT-CV-Evgeny-Malko-426f01d8e06a40df822cf1acecf0e69e"
+                  target="blank">
+                  <img src={cv} alt="CV" />
+                </a>
+              </li>
               <li className="social__item">
                 <a href="https://github.com/CaptainGinny" target="blank">
                   <img src={gitHub} alt="Link" />
