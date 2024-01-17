@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio.github.io/static/css/main.9d5c8757.css",
-    "main.js": "/Portfolio.github.io/static/js/main.e91e547a.js",
+    "main.css": "/Portfolio.github.io/static/css/main.f122ec86.css",
+    "main.js": "/Portfolio.github.io/static/js/main.e22ba0cb.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/relvise-big.png": "/Portfolio.github.io/static/media/relvise-big.6b0e160aa44ec2c69b23.png",
     "static/media/react-pizza-big.png": "/Portfolio.github.io/static/media/react-pizza-big.f17bb2f00491c6480d02.png",
@@ -29,12 +29,12 @@
     "static/media/linkedIn.svg": "/Portfolio.github.io/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/telegram.svg": "/Portfolio.github.io/static/media/telegram.d69c31aca4e80479510fe8de6889bf01.svg",
     "index.html": "/Portfolio.github.io/index.html",
-    "main.9d5c8757.css.map": "/Portfolio.github.io/static/css/main.9d5c8757.css.map",
-    "main.e91e547a.js.map": "/Portfolio.github.io/static/js/main.e91e547a.js.map",
+    "main.f122ec86.css.map": "/Portfolio.github.io/static/css/main.f122ec86.css.map",
+    "main.e22ba0cb.js.map": "/Portfolio.github.io/static/js/main.e22ba0cb.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d5c8757.css",
-    "static/js/main.e91e547a.js"
+    "static/css/main.f122ec86.css",
+    "static/js/main.e22ba0cb.js"
   ]
 }
