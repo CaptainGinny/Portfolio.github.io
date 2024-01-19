@@ -395,8 +395,12 @@ body {
 	margin-top: 0.5em;
 }
 
-@media (max-width: 620px) and (max-width: 320px) {
+@media (max-width: 620px) and (max-width: 378px) {
 	/* Header  */
+
+	.logo {
+		margin-left: auto;
+	}
 
 	.header {
 		min-height: unset;
