@@ -25,7 +25,7 @@ export default function Footer() {
                 </a>
               </li>
               <li className="social__item">
-                <a href="www.linkedin.com/in/evgeniymalko" target="blank">
+                <a href="https://linkedin.com/in/evgeniymalko" target="blank">
                   <img src={linkedIn} alt="Link" />
                 </a>
               </li>
