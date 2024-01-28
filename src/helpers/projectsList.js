@@ -1,11 +1,11 @@
-import watchproject from './../img/projects/watch.png';
-import watchprojectBig from './../img/projects/watch-big.png';
-
 import mycompanyproject from './../img/projects/mycompany.png';
 import mycompanyprojectBig from './../img/projects/mycompany-big.png';
 
 import thirdproject from './../img/projects/sitelayout.png';
 import thirdprojectBig from './../img/projects/sitelayout-big.png';
+
+import listuser from './../img/projects/listofuser.png';
+import listuserBig from './../img/projects/listofuser-big.png';
 
 import reactpractice from './../img/projects/reactpractice.png';
 import reactpracticeBig from './../img/projects/reactpractice-big.png';
@@ -28,14 +28,6 @@ import reactpizzaBig from './../img/projects/react-pizza-big.png';
 const projects = [
   {
     id: 0,
-    title: 'The First project-practic',
-    skills: 'HTML, CSS',
-    img: watchproject,
-    imgBig: watchprojectBig,
-    gitHubLink: 'https://captainginny.github.io/TheFirstProject-practic',
-  },
-  {
-    id: 1,
     title: 'Second practical project',
     skills: 'HTML, CSS, JavaScript',
     img: mycompanyproject,
@@ -43,12 +35,21 @@ const projects = [
     gitHubLink: 'https://captainginny.github.io/Second-practical-project.github.io',
   },
   {
-    id: 2,
+    id: 1,
     title: 'Third-project-sitelayout',
     skills: 'HTML, CSS, JavaScript, Owl Carousel',
     img: thirdproject,
     imgBig: thirdprojectBig,
     gitHubLink: 'https://captainginny.github.io/Third-project-sitelayout.github.io',
+  },
+  {
+    id: 2,
+    title: 'User list',
+    skills:
+      'HTML (HyperText Markup Language), Bootstrap (CSS Framework), JavaScript, DOM (Document Object Model)',
+    img: listuser,
+    imgBig: listuserBig,
+    gitHubLink: 'https://captainginny.github.io/user_list/',
   },
   {
     id: 3,
