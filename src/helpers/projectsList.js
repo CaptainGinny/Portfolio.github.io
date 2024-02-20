@@ -1,5 +1,5 @@
-import mycompanyproject from './../img/projects/mycompany.png';
-import mycompanyprojectBig from './../img/projects/mycompany-big.png';
+import lofthouse from './../img/projects/lofthouse.png';
+import lofthouseBig from './../img/projects/lofthouse-big.png';
 
 import thirdproject from './../img/projects/sitelayout.png';
 import thirdprojectBig from './../img/projects/sitelayout-big.png';
@@ -28,11 +28,12 @@ import reactpizzaBig from './../img/projects/react-pizza-big.png';
 const projects = [
   {
     id: 0,
-    title: 'Second practical project',
-    skills: 'HTML, CSS, JavaScript',
-    img: mycompanyproject,
-    imgBig: mycompanyprojectBig,
-    gitHubLink: 'https://captainginny.github.io/Second-practical-project.github.io',
+    title: 'Loft-House',
+    skills:
+      'Figma, CSS preprocessor SCSS, use mixins and variables, adaptive layout. Layout based on CSS Grid and Flexbox, JS',
+    img: lofthouse,
+    imgBig: lofthouseBig,
+    gitHubLink: 'https://captainginny.github.io/Loft-House/',
   },
   {
     id: 1,
