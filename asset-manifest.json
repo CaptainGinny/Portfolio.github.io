@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio.github.io/static/css/main.6085b4ca.css",
-    "main.js": "/Portfolio.github.io/static/js/main.d9f20284.js",
+    "main.js": "/Portfolio.github.io/static/js/main.1a0f8570.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/relvise-big.png": "/Portfolio.github.io/static/media/relvise-big.6b0e160aa44ec2c69b23.png",
     "static/media/react-pizza-big.png": "/Portfolio.github.io/static/media/react-pizza-big.f17bb2f00491c6480d02.png",
     "static/media/jQuery-project.png": "/Portfolio.github.io/static/media/jQuery-project.78018ebb74ea9eea327b.png",
     "static/media/jQurey-project-big.png": "/Portfolio.github.io/static/media/jQurey-project-big.e32c87826d0ff85ef3d9.png",
     "static/media/sitelayout-big.png": "/Portfolio.github.io/static/media/sitelayout-big.54b9b7121c72474573a6.png",
+    "static/media/lofthouse.png": "/Portfolio.github.io/static/media/lofthouse.29ec29a332e2c85469a8.png",
+    "static/media/lofthouse-big.png": "/Portfolio.github.io/static/media/lofthouse-big.6ab413863db847684cc0.png",
     "static/media/header-bg.jpg": "/Portfolio.github.io/static/media/header-bg.72e3b1a2b6247f267199.jpg",
     "static/media/react-pizza.png": "/Portfolio.github.io/static/media/react-pizza.3a2e16d3310a91d70299.png",
-    "static/media/mycompany-big.png": "/Portfolio.github.io/static/media/mycompany-big.b94bb3120365e2b51655.png",
     "static/media/colours-big.png": "/Portfolio.github.io/static/media/colours-big.f6b52b3edb190ef97ee4.png",
     "static/media/listofuser-big.png": "/Portfolio.github.io/static/media/listofuser-big.b559bfbf84fe6acaf98f.png",
     "static/media/relvise.png": "/Portfolio.github.io/static/media/relvise.32af264d74435aef82ee.png",
     "static/media/reactpractice-big.png": "/Portfolio.github.io/static/media/reactpractice-big.f46e9856c4fbdecd2d70.png",
     "static/media/sitelayout.png": "/Portfolio.github.io/static/media/sitelayout.934a2d7c706b92edae80.png",
-    "static/media/mycompany.png": "/Portfolio.github.io/static/media/mycompany.dffb25f8fb93022bcfaf.png",
     "static/media/calculator-big.png": "/Portfolio.github.io/static/media/calculator-big.2133696428dc99a56b4b.png",
     "static/media/listofuser.png": "/Portfolio.github.io/static/media/listofuser.d276af66e371d54023b2.png",
     "static/media/reactpractice.png": "/Portfolio.github.io/static/media/reactpractice.043b586cb25eedb66f4d.png",
@@ -31,11 +31,11 @@
     "static/media/telegram.svg": "/Portfolio.github.io/static/media/telegram.d69c31aca4e80479510fe8de6889bf01.svg",
     "index.html": "/Portfolio.github.io/index.html",
     "main.6085b4ca.css.map": "/Portfolio.github.io/static/css/main.6085b4ca.css.map",
-    "main.d9f20284.js.map": "/Portfolio.github.io/static/js/main.d9f20284.js.map",
+    "main.1a0f8570.js.map": "/Portfolio.github.io/static/js/main.1a0f8570.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6085b4ca.css",
-    "static/js/main.d9f20284.js"
+    "static/js/main.1a0f8570.js"
   ]
 }
