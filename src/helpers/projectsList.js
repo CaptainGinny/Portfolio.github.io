@@ -38,7 +38,8 @@ const projects = [
   {
     id: 1,
     title: 'Header_swiper_slider',
-    skills: 'HTML, CSS-SCSS, JavaScript, Gulp',
+    skills:
+      'HTML, SCSS layout for creative website header on Gulp build. Swiper slider with parallax effect. Mobile adaptation. Preloader.',
     img: travelX,
     imgBig: travelXBig,
     gitHubLink: 'https://captainginny.github.io/HeaderSwiperSlider/',
