@@ -1,8 +1,8 @@
 import lofthouse from './../img/projects/lofthouse.png';
 import lofthouseBig from './../img/projects/lofthouse-big.png';
 
-import thirdproject from './../img/projects/sitelayout.png';
-import thirdprojectBig from './../img/projects/sitelayout-big.png';
+import travelX from './../img/projects/travelX.png';
+import travelXBig from './../img/projects/travelX-big.png';
 
 import listuser from './../img/projects/listofuser.png';
 import listuserBig from './../img/projects/listofuser-big.png';
@@ -28,7 +28,7 @@ import reactpizzaBig from './../img/projects/react-pizza-big.png';
 const projects = [
   {
     id: 0,
-    title: 'Loft-House',
+    title: 'Loft_House',
     skills:
       'Figma, CSS preprocessor SCSS, use mixins and variables, adaptive layout. Layout based on CSS Grid and Flexbox, JS',
     img: lofthouse,
@@ -37,15 +37,15 @@ const projects = [
   },
   {
     id: 1,
-    title: 'Third-project-sitelayout',
-    skills: 'HTML, CSS, JavaScript, Owl Carousel',
-    img: thirdproject,
-    imgBig: thirdprojectBig,
-    gitHubLink: 'https://captainginny.github.io/Third-project-sitelayout.github.io',
+    title: 'Header_swiper_slider',
+    skills: 'HTML, CSS-SCSS, JavaScript, Gulp',
+    img: travelX,
+    imgBig: travelXBig,
+    gitHubLink: 'https://captainginny.github.io/HeaderSwiperSlider/',
   },
   {
     id: 2,
-    title: 'User list',
+    title: 'User_list',
     skills:
       'HTML (HyperText Markup Language), Bootstrap (CSS Framework), JavaScript, DOM (Document Object Model)',
     img: listuser,
@@ -54,7 +54,7 @@ const projects = [
   },
   {
     id: 3,
-    title: 'React-Typescript-practice',
+    title: 'React_Typescript_practice',
     skills: 'React, Typescript, JavaScript, Node.js',
     img: reactpractice,
     imgBig: reactpracticeBig,
@@ -62,7 +62,7 @@ const projects = [
   },
   {
     id: 4,
-    title: 'Project-layout-training',
+    title: 'Project_layout_training',
     skills: 'HTML, CSS, Responsive Web Design',
     img: project05,
     imgBig: project05Big,
@@ -70,7 +70,7 @@ const projects = [
   },
   {
     id: 5,
-    title: 'Project-Colours',
+    title: 'Project_Colours',
     skills: 'HTML, CSS, JavaScript',
     img: colours,
     imgBig: coloursBig,
@@ -78,7 +78,7 @@ const projects = [
   },
   {
     id: 6,
-    title: 'Loan-Calculator',
+    title: 'Loan_Calculator',
     skills: 'JavaScript, HTML',
     img: calculator,
     imgBig: calculatorBig,
@@ -86,7 +86,7 @@ const projects = [
   },
   {
     id: 7,
-    title: 'jQuery-project',
+    title: 'jQuery_project',
     skills: 'jQuery, HTML, CSS, ReactJS',
     img: jqueryproject,
     imgBig: jqueryprojectBig,
@@ -94,7 +94,7 @@ const projects = [
   },
   {
     id: 8,
-    title: 'React-Pizza',
+    title: 'React_Pizza',
     skills:
       'ReactJS 18, TypeScript, Redux Toolkit, React Router v6, Axios + Fetch, React Hooks, Prettier, CSS-Modules / SCSS, React Content Loader, React Pagination, Lodash.Debounce, Code Splitting, React Loadable',
     img: reactpizza,
