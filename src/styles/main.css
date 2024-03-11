@@ -55,6 +55,11 @@ body {
 	/* Light mode */
 	background-color: var(--page-bg);
 	color: var(--text-color);
+
+	background-image: url('./../img/header-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
 }
 
 #root {
@@ -105,7 +110,7 @@ body {
 
 .nav {
 	padding: 20px 0;
-	background-color: var(--nav-bg);
+	/* background-color: var(--nav-bg); */
 	border-bottom: 1px solid var(--nav-border);
 	color: var(--nav-text);
 	letter-spacing: normal;
@@ -125,6 +130,14 @@ body {
 	color: var(--nav-text);
 	font-size: 24px;
 	font-family: 'Poppins', sans-serif;
+}
+
+.logo__img {
+	width: 33px;
+	height: 33px;
+	margin: 0px auto;
+	margin-right: 6px;
+	border-radius: 50%;
 }
 
 .logo strong {
@@ -171,17 +184,19 @@ body {
 /* Header */
 
 .header {
-	padding: 50px 0;
-	min-height: 695px;
+	padding: 10px 0;
+	min-height: 390px; /*трогал было 695*/
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
 
-	background-image: url('./../img/header-bg.jpg');
+	scroll-behavior: auto;
+
+	/* background-image: url('./../img/header-bg.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
+	background-position: center center; */
 
 	color: var(--header-text);
 	text-align: center;
@@ -194,6 +209,7 @@ body {
 }
 
 .header__title {
+	margin-left: 200px;
 	margin-bottom: 20px;
 	font-size: 40px;
 	font-weight: 700;
@@ -369,8 +385,8 @@ body {
 
 .footer {
 	margin-top: auto;
-	padding: 60px 0 50px;
-	background-color: var(--footer-bg);
+	padding: 10px 0 10px;
+	/* background-color: var(--footer-bg); */
 	color: var(--footer-text);
 }
 
@@ -385,6 +401,12 @@ body {
 	display: flex;
 	column-gap: 30px;
 	align-items: center;
+}
+
+.social__item img {
+	width: 60px;
+	height: 60px;
+	border-radius: 20%;
 }
 
 .copyright {

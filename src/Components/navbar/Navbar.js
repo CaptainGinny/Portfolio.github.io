@@ -1,10 +1,11 @@
-import React from "react";
-import { NavLink } from "react-router-dom";
-import BtnDarkMode from "../btnDarkMode/BtnDarkMode";
+import React from 'react';
+import { NavLink } from 'react-router-dom';
+import BtnDarkMode from '../btnDarkMode/BtnDarkMode';
+import avatar from './../../img/avatar.jpg';
 
 export default function Navbar() {
-  const activeLink = "nav-list__link nav-list__link--active";
-  const normalLink = "nav-list__link";
+  const activeLink = 'nav-list__link nav-list__link--active';
+  const normalLink = 'nav-list__link';
 
   return (
     <div>
@@ -12,37 +13,27 @@ export default function Navbar() {
         <div className="container">
           <div className="nav-row">
             <NavLink to="/" className="logo">
+              <img className="logo__img" src={avatar} alt="Avatar" />
               <strong>Portfolio</strong> site
             </NavLink>
             <BtnDarkMode />
             <ul className="nav-list">
               <li className="nav-list__item">
-                <NavLink
-                  to="/"
-                  className={({ isActive }) =>
-                    isActive ? activeLink : normalLink
-                  }
-                >
+                <NavLink to="/" className={({ isActive }) => (isActive ? activeLink : normalLink)}>
                   Home
                 </NavLink>
               </li>
               <li className="nav-list__item">
                 <NavLink
                   to="/projects"
-                  className={({ isActive }) =>
-                    isActive ? activeLink : normalLink
-                  }
-                >
+                  className={({ isActive }) => (isActive ? activeLink : normalLink)}>
                   Projects
                 </NavLink>
               </li>
               <li className="nav-list__item">
                 <NavLink
                   to="/contacts"
-                  className={({ isActive }) =>
-                    isActive ? activeLink : normalLink
-                  }
-                >
+                  className={({ isActive }) => (isActive ? activeLink : normalLink)}>
                   Contacts
                 </NavLink>
               </li>

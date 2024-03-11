@@ -1,5 +1,5 @@
-import React from "react";
-import Header from "../Components/header/Header";
+import React from 'react';
+import Header from '../Components/header/Header';
 
 export default function Home() {
   return (
@@ -11,8 +11,8 @@ export default function Home() {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                HTML, CSS, SCSS/SASS, JavaScript, TypeScript(basics), ReactJS, NPM,
-                BootStrap, jQurey, Gulp, GitHub, Linux 
+                HTML, CSS (SCSS/SASS), JavaScript, TypeScript, ReactJS, NPM, Redux, Webpack,
+                BootStrap, jQurey, Gulp, Git ...
               </p>
             </li>
             <li className="content-list__item">
