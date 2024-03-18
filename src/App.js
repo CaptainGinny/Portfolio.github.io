@@ -1,15 +1,15 @@
-import "./styles/reset.css";
-import "./styles/main.css";
+import './styles/reset.css';
+import './styles/main.css';
 
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
-import Navbar from "./Components/navbar/Navbar";
-import Footer from "./Components/footer/Footer";
-import Home from "./pages/Home";
-import Projects from "./pages/Projects";
-import Contacts from "./pages/Contacts";
-import Project from "./pages/Project";
-import ScrollToTop from "./utils/scrolTOtop";
+import Navbar from './Components/navbar/Navbar';
+import Footer from './Components/footer/Footer';
+import Home from './pages/Home';
+import Projects from './pages/Projects';
+import Contacts from './pages/Contacts';
+import Project from './pages/Project';
+import ScrollToTop from './utils/scrollTOtop';
 
 function App() {
   return (

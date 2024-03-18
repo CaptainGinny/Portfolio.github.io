@@ -1,4 +1,6 @@
 import React from 'react';
+import cv from './../img/icons/cv.png';
+import foto from './../img/foto.jpg';
 
 export default function Contacts() {
   return (
@@ -6,6 +8,9 @@ export default function Contacts() {
       <main className="section">
         <div className="container">
           <h1 className="title-1">Contacts</h1>
+          <div className="foto__img">
+            <img src={foto} alt="foto" />
+          </div>
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Location</h2>
@@ -23,6 +28,12 @@ export default function Contacts() {
                 <a href="mailto:ginnymalko@gmail.com">ginnymalko@gmail.com</a>
               </p>
             </li>
+            <a
+              className="cv"
+              href="https://transparent-aspen-664.notion.site/IT-CV-Evgeny-Malko-426f01d8e06a40df822cf1acecf0e69e"
+              target="blank">
+              <img src={cv} alt="CV" />
+            </a>
           </ul>
         </div>
       </main>
