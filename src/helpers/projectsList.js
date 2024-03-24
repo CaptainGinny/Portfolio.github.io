@@ -8,7 +8,7 @@ import listuser from './../img/projects/listofuser.png';
 import listuserBig from './../img/projects/listofuser-big.png';
 
 import reactpractice from './../img/projects/reactpractice.png';
-import reactpracticeBig from './../img/projects/reactpractice-big.png';
+import reactpracticeBig from './../img/projects/reactpractice-big.jpg';
 
 import project05 from './../img/projects/relvise.png';
 import project05Big from './../img/projects/relvise-big.png';
@@ -17,10 +17,10 @@ import colours from './../img/projects/colours.png';
 import coloursBig from './../img/projects/colours-big.png';
 
 import calculator from './../img/projects/calculator.png';
-import calculatorBig from './../img/projects/calculator-big.png';
+import calculatorBig from './../img/projects/calculator-big.jpg';
 
 import jqueryproject from './../img/projects/jQuery-project.png';
-import jqueryprojectBig from './../img/projects/jQurey-project-big.png';
+import jqueryprojectBig from './../img/projects/jQurey-project-big.jpg';
 
 import reactpizza from './../img/projects/react-pizza.png';
 import reactpizzaBig from './../img/projects/react-pizza-big.png';

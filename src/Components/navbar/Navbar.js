@@ -6,7 +6,6 @@ import avatar from './../../img/avatar.jpg';
 export default function Navbar() {
   const activeLink = 'nav-list__link nav-list__link--active';
   const normalLink = 'nav-list__link';
-
   return (
     <div>
       <nav className="nav">
