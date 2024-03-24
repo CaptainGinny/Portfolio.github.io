@@ -486,7 +486,7 @@ body {
 	}
 }
 
-@media (max-width: 599px) {
+@media (max-width: 600px) {
 	.nav-list {
 		margin: 0 auto;
 	}
@@ -501,8 +501,17 @@ body {
 
 	.header__title {
 		margin-bottom: 10px;
-		font-size: 10px;
+		font-size: 30px;
 		font-weight: 700;
 		line-height: 1.4;
+	}
+
+	.header__title strong {
+		font-size: 50px;
+		font-weight: 700;
+	}
+
+	.header {
+		min-height: auto;
 	}
 }
