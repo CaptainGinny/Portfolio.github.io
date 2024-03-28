@@ -64,7 +64,6 @@ body {
 }
 
 /* General */
-
 .container {
 	margin: 0 auto;
 	padding: 0 15px;
@@ -96,7 +95,6 @@ body {
 }
 
 /* Nav */
-
 .nav {
 	padding: 20px 0;
 	background-color: var(--nav-bg);
@@ -169,7 +167,6 @@ body {
 }
 
 /* Header */
-
 .header {
 	padding: 10px 0;
 	min-height: 100vh;
@@ -183,9 +180,6 @@ body {
 	color: var(--white);
 	text-align: center;
 	text-shadow: 2px 5px 0px #000;
-}
-
-.header__wrapper {
 }
 
 .header__title {
@@ -216,19 +210,16 @@ body {
 }
 
 /* Btn */
-
 .btn {
 	display: inline-block;
 	height: 48px;
 	padding: 13px 53px;
-
 	border-radius: 5px;
 	background-color: #66fcf1;
 	color: var(--white);
 	letter-spacing: 0.15px;
 	font-size: 19px;
 	font-weight: 500;
-
 	transition: opacity 0.2s ease-in;
 	text-shadow: 2px 3px 0px #000;
 }
@@ -243,20 +234,16 @@ body {
 }
 
 /* Btn outline */
-
 .btn-outline {
 	display: flex;
 	column-gap: 10px;
 	align-items: center;
-
 	height: 48px;
 	padding: 12px 20px;
-
 	border-radius: 5px;
 	border: 1px solid #000;
 	background-color: #fff;
 	color: #000;
-
 	transition: opacity 0.2s ease-in;
 }
 
@@ -270,7 +257,6 @@ body {
 }
 
 /* Projects  */
-
 .projects {
 	display: flex;
 	justify-content: center;
@@ -303,22 +289,18 @@ body {
 }
 
 /* Project details */
-
 .project-details {
 	margin: 0 auto;
 	max-width: 865px;
-
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-
 	text-align: center;
 }
 
 .project-details__cover {
 	max-width: 100%;
 	margin-bottom: 40px;
-
 	box-shadow: var(--box-shadow);
 	border-radius: 10px;
 }
@@ -331,7 +313,6 @@ body {
 }
 
 /* Content list */
-
 .content-list {
 	margin: 0 auto;
 	max-width: 570px;
@@ -360,7 +341,6 @@ body {
 }
 
 /* Footer */
-
 .footer {
 	display: flex; 
 	justify-content: end;
@@ -412,13 +392,9 @@ body {
 }
 
 @media (max-width: 620px) and (max-width: 378px)  {
-	/* Header  */
-
 	.logo {
 		margin-left: auto;
 	}
-
-	/* Nav */
 
 	.nav-row {
 		justify-content: space-between;
@@ -428,10 +404,8 @@ body {
 		order: 0;
 	}
 
-	/* General */
-
 	.section {
-		padding: 40px 0;
+		padding: 10px 0;
 	}
 
 	.title-1 {
@@ -442,20 +416,20 @@ body {
 		font-size: 30px;
 	}
 
-	/* Projects */
+	.header__text {
+		margin-bottom: 1em;
+		font-size: 25px;
+		line-height: 1.333;
+	}
 
 	.project__title {
 		font-size: 22px;
 	}
 
-	/* Project page */
-
 	.project-details__desc {
 		margin-bottom: 20px;
 		font-size: 22px;
 	}
-
-	/* Content List */
 
 	.content-list {
 		row-gap: 20px;
@@ -465,8 +439,6 @@ body {
 		font-size: 16px;
 	}
 
-	/* Footer */
-
 	.footer {
 		padding: 10px 0 5px;
 	}
@@ -474,8 +446,6 @@ body {
 	.footer__wrapper {
 		row-gap: 3px;
 	}
-
-	/* Social */
 
 	.social {
 		column-gap: 20px;
