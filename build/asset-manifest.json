@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio.github.io/static/css/main.8879f913.css",
-    "main.js": "/Portfolio.github.io/static/js/main.0b6084fb.js",
+    "main.css": "/Portfolio.github.io/static/css/main.9b76ce2b.css",
+    "main.js": "/Portfolio.github.io/static/js/main.14ea7625.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/relvise-big.png": "/Portfolio.github.io/static/media/relvise-big.71979bac2153a2c283cf.png",
+    "static/media/jQurey-project-big.png": "/Portfolio.github.io/static/media/jQurey-project-big.d8581da662a8f4014315.png",
     "static/media/jQuery-project.png": "/Portfolio.github.io/static/media/jQuery-project.9c6500fea4b22886a592.png",
     "static/media/react-pizza-big.png": "/Portfolio.github.io/static/media/react-pizza-big.434eceef38d49fe058a5.png",
     "static/media/travelX.png": "/Portfolio.github.io/static/media/travelX.221314d726fdaeca3c8a.png",
@@ -12,15 +13,14 @@
     "static/media/lofthouse-big.png": "/Portfolio.github.io/static/media/lofthouse-big.c5fdf39b526aac52c178.png",
     "static/media/react-pizza.png": "/Portfolio.github.io/static/media/react-pizza.e04f8c671751d5cea253.png",
     "static/media/avatar.jpg": "/Portfolio.github.io/static/media/avatar.57fde2112f457b9928be.jpg",
-    "static/media/jQurey-project-big.jpg": "/Portfolio.github.io/static/media/jQurey-project-big.69db1764ea47b71b7d9a.jpg",
     "static/media/foto.jpg": "/Portfolio.github.io/static/media/foto.adbc78839962e2615447.jpg",
+    "static/media/reactpractice-big.png": "/Portfolio.github.io/static/media/reactpractice-big.f8897ba9971be860f41a.png",
     "static/media/relvise.png": "/Portfolio.github.io/static/media/relvise.37620fdaf0d575b88217.png",
-    "static/media/calculator-big.jpg": "/Portfolio.github.io/static/media/calculator-big.12960d06e311e946e95c.jpg",
-    "static/media/reactpractice-big.jpg": "/Portfolio.github.io/static/media/reactpractice-big.8fa52abbb46f19e8682b.jpg",
     "static/media/colours-big.png": "/Portfolio.github.io/static/media/colours-big.e682f1777b2a024351e0.png",
     "static/media/sunset.jpg": "/Portfolio.github.io/static/media/sunset.b74bd387cb0605079c5e.jpg",
     "static/media/listofuser-big.png": "/Portfolio.github.io/static/media/listofuser-big.c2ba609763c31d1b3fec.png",
     "static/media/cv.png": "/Portfolio.github.io/static/media/cv.f63b08f01a490bafa747.png",
+    "static/media/calculator-big.png": "/Portfolio.github.io/static/media/calculator-big.cf343fdb5ea9f5b400f2.png",
     "static/media/listofuser.png": "/Portfolio.github.io/static/media/listofuser.41ee01e94413cbf0047c.png",
     "static/media/sun.svg": "/Portfolio.github.io/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/Portfolio.github.io/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
@@ -30,12 +30,12 @@
     "static/media/linkedIn.svg": "/Portfolio.github.io/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/telegram.svg": "/Portfolio.github.io/static/media/telegram.d69c31aca4e80479510fe8de6889bf01.svg",
     "index.html": "/Portfolio.github.io/index.html",
-    "main.8879f913.css.map": "/Portfolio.github.io/static/css/main.8879f913.css.map",
-    "main.0b6084fb.js.map": "/Portfolio.github.io/static/js/main.0b6084fb.js.map",
+    "main.9b76ce2b.css.map": "/Portfolio.github.io/static/css/main.9b76ce2b.css.map",
+    "main.14ea7625.js.map": "/Portfolio.github.io/static/js/main.14ea7625.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8879f913.css",
-    "static/js/main.0b6084fb.js"
+    "static/css/main.9b76ce2b.css",
+    "static/js/main.14ea7625.js"
   ]
 }
