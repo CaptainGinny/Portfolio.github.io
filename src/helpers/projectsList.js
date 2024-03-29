@@ -8,7 +8,7 @@ import listuser from './../img/projects/listofuser.png';
 import listuserBig from './../img/projects/listofuser-big.png';
 
 import reactpractice from './../img/projects/reactpractice.png';
-import reactpracticeBig from './../img/projects/reactpractice-big.jpg';
+import reactpracticeBig from './../img/projects/reactpractice-big.png';
 
 import project05 from './../img/projects/relvise.png';
 import project05Big from './../img/projects/relvise-big.png';
@@ -17,10 +17,10 @@ import colours from './../img/projects/colours.png';
 import coloursBig from './../img/projects/colours-big.png';
 
 import calculator from './../img/projects/calculator.png';
-import calculatorBig from './../img/projects/calculator-big.jpg';
+import calculatorBig from './../img/projects/calculator-big.png';
 
 import jqueryproject from './../img/projects/jQuery-project.png';
-import jqueryprojectBig from './../img/projects/jQurey-project-big.jpg';
+import jqueryprojectBig from './../img/projects/jQurey-project-big.png';
 
 import reactpizza from './../img/projects/react-pizza.png';
 import reactpizzaBig from './../img/projects/react-pizza-big.png';
@@ -37,7 +37,7 @@ const projects = [
   },
   {
     id: 1,
-    title: 'Header_swiper_slider',
+    title: 'Header_swiper slider',
     skills:
       'HTML, SCSS layout for creative website header on Gulp build. Swiper slider with parallax effect. Mobile adaptation. Preloader.',
     img: travelX,
@@ -55,7 +55,7 @@ const projects = [
   },
   {
     id: 3,
-    title: 'React_Typescript_practice',
+    title: 'React_Typescript practice',
     skills: 'React, Typescript, JavaScript, Node.js',
     img: reactpractice,
     imgBig: reactpracticeBig,
@@ -63,7 +63,7 @@ const projects = [
   },
   {
     id: 4,
-    title: 'Project_layout_training',
+    title: 'Project_layout training',
     skills: 'HTML, CSS, Responsive Web Design',
     img: project05,
     imgBig: project05Big,
