@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio.github.io/static/css/main.81b73f1c.css",
-    "main.js": "/Portfolio.github.io/static/js/main.14ea7625.js",
+    "main.css": "/Portfolio.github.io/static/css/main.550c10fa.css",
+    "main.js": "/Portfolio.github.io/static/js/main.773db258.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/relvise-big.png": "/Portfolio.github.io/static/media/relvise-big.71979bac2153a2c283cf.png",
     "static/media/jQurey-project-big.png": "/Portfolio.github.io/static/media/jQurey-project-big.d8581da662a8f4014315.png",
@@ -13,9 +13,10 @@
     "static/media/lofthouse-big.png": "/Portfolio.github.io/static/media/lofthouse-big.c5fdf39b526aac52c178.png",
     "static/media/react-pizza.png": "/Portfolio.github.io/static/media/react-pizza.e04f8c671751d5cea253.png",
     "static/media/avatar.jpg": "/Portfolio.github.io/static/media/avatar.57fde2112f457b9928be.jpg",
+    "static/media/earphoneStore.jpg": "/Portfolio.github.io/static/media/earphoneStore.9c76d36313692edea227.jpg",
     "static/media/foto.jpg": "/Portfolio.github.io/static/media/foto.adbc78839962e2615447.jpg",
-    "static/media/reactpractice-big.png": "/Portfolio.github.io/static/media/reactpractice-big.f8897ba9971be860f41a.png",
     "static/media/relvise.png": "/Portfolio.github.io/static/media/relvise.37620fdaf0d575b88217.png",
+    "static/media/earphoneStore-big.jpg": "/Portfolio.github.io/static/media/earphoneStore-big.d8a605905e98d5b3c1eb.jpg",
     "static/media/colours-big.png": "/Portfolio.github.io/static/media/colours-big.e682f1777b2a024351e0.png",
     "static/media/sunset.jpg": "/Portfolio.github.io/static/media/sunset.b74bd387cb0605079c5e.jpg",
     "static/media/listofuser-big.png": "/Portfolio.github.io/static/media/listofuser-big.c2ba609763c31d1b3fec.png",
@@ -30,12 +31,12 @@
     "static/media/linkedIn.svg": "/Portfolio.github.io/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/telegram.svg": "/Portfolio.github.io/static/media/telegram.d69c31aca4e80479510fe8de6889bf01.svg",
     "index.html": "/Portfolio.github.io/index.html",
-    "main.81b73f1c.css.map": "/Portfolio.github.io/static/css/main.81b73f1c.css.map",
-    "main.14ea7625.js.map": "/Portfolio.github.io/static/js/main.14ea7625.js.map",
+    "main.550c10fa.css.map": "/Portfolio.github.io/static/css/main.550c10fa.css.map",
+    "main.773db258.js.map": "/Portfolio.github.io/static/js/main.773db258.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81b73f1c.css",
-    "static/js/main.14ea7625.js"
+    "static/css/main.550c10fa.css",
+    "static/js/main.773db258.js"
   ]
 }

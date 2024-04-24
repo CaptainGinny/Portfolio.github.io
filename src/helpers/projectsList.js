@@ -1,5 +1,5 @@
-import lofthouse from './../img/projects/lofthouse.png';
-import lofthouseBig from './../img/projects/lofthouse-big.png';
+import earphonestore from './../img/projects/earphoneStore.jpg';
+import earphonestoreBig from './../img/projects/earphoneStore-big.jpg';
 
 import travelX from './../img/projects/travelX.png';
 import travelXBig from './../img/projects/travelX-big.png';
@@ -7,8 +7,8 @@ import travelXBig from './../img/projects/travelX-big.png';
 import listuser from './../img/projects/listofuser.png';
 import listuserBig from './../img/projects/listofuser-big.png';
 
-import reactpractice from './../img/projects/reactpractice.png';
-import reactpracticeBig from './../img/projects/reactpractice-big.png';
+import lofthouse from './../img/projects/lofthouse.png';
+import lofthouseBig from './../img/projects/lofthouse-big.png';
 
 import project05 from './../img/projects/relvise.png';
 import project05Big from './../img/projects/relvise-big.png';
@@ -28,12 +28,11 @@ import reactpizzaBig from './../img/projects/react-pizza-big.png';
 const projects = [
   {
     id: 0,
-    title: 'Loft_House',
-    skills:
-      'Figma, CSS preprocessor SCSS, use mixins and variables, adaptive layout. Layout based on CSS Grid and Flexbox, JS',
-    img: lofthouse,
-    imgBig: lofthouseBig,
-    gitHubLink: 'https://captainginny.github.io/Loft-House/',
+    title: 'Earphone_Store',
+    skills: 'HTML, SCSS, JavaScript, Gulp, WebPack',
+    img: earphonestore,
+    imgBig: earphonestoreBig,
+    gitHubLink: 'https://captainginny.github.io/Earphone_Store/',
   },
   {
     id: 1,
@@ -55,11 +54,12 @@ const projects = [
   },
   {
     id: 3,
-    title: 'React_Typescript practice',
-    skills: 'React, Typescript, JavaScript, Node.js',
-    img: reactpractice,
-    imgBig: reactpracticeBig,
-    gitHubLink: 'https://captainginny.github.io/React-and-typescript-practice.github.io/',
+    title: 'Loft_House',
+    skills:
+      'Figma, CSS preprocessor SCSS, use mixins and variables, adaptive layout. Layout based on CSS Grid and Flexbox, JS',
+    img: lofthouse,
+    imgBig: lofthouseBig,
+    gitHubLink: 'https://captainginny.github.io/Loft-House/',
   },
   {
     id: 4,

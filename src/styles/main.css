@@ -53,7 +53,7 @@ html, body {
 }
 
 #root {
-	min-height: 100vh;
+	min-height: 100%;
 } 
 
 .app {
@@ -176,7 +176,7 @@ html, body {
 	scroll-behavior: auto;
 	background: url('./../img/sunset.jpg');
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: contain;
 	color: var(--white);
 	text-align: center;
 	text-shadow: 2px 5px 0px #000;
@@ -434,6 +434,10 @@ html, body {
 		font-size: 16px;
 	}
 
+	.project-details {
+		margin: 20px;
+	}
+
 	.project-details__desc {
 		margin-bottom: 20px;
 		font-size: 18px;
@@ -473,7 +477,8 @@ html, body {
 	}
 
 	.header {
-		min-height: 50vh;
+		min-height: 60vh;
+    background-size: auto auto;
 	}
 
 	.header__title {
