@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio.github.io/static/css/main.550c10fa.css",
-    "main.js": "/Portfolio.github.io/static/js/main.773db258.js",
+    "main.css": "/Portfolio.github.io/static/css/main.48e0747d.css",
+    "main.js": "/Portfolio.github.io/static/js/main.9f4a281a.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/relvise-big.png": "/Portfolio.github.io/static/media/relvise-big.71979bac2153a2c283cf.png",
     "static/media/jQurey-project-big.png": "/Portfolio.github.io/static/media/jQurey-project-big.d8581da662a8f4014315.png",
@@ -31,12 +31,12 @@
     "static/media/linkedIn.svg": "/Portfolio.github.io/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/telegram.svg": "/Portfolio.github.io/static/media/telegram.d69c31aca4e80479510fe8de6889bf01.svg",
     "index.html": "/Portfolio.github.io/index.html",
-    "main.550c10fa.css.map": "/Portfolio.github.io/static/css/main.550c10fa.css.map",
-    "main.773db258.js.map": "/Portfolio.github.io/static/js/main.773db258.js.map",
+    "main.48e0747d.css.map": "/Portfolio.github.io/static/css/main.48e0747d.css.map",
+    "main.9f4a281a.js.map": "/Portfolio.github.io/static/js/main.9f4a281a.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.550c10fa.css",
-    "static/js/main.773db258.js"
+    "static/css/main.48e0747d.css",
+    "static/js/main.9f4a281a.js"
   ]
 }

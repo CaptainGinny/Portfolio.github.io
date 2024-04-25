@@ -38,7 +38,7 @@ const projects = [
     id: 1,
     title: 'Header_swiper slider',
     skills:
-      'HTML, SCSS layout for creative website header on Gulp build. Swiper slider with parallax effect. Mobile adaptation. Preloader.',
+      'HTML, SCSS layout for creative website header on Gulp build, Swiper slider with parallax effect, Mobile adaptation, Preloader',
     img: travelX,
     imgBig: travelXBig,
     gitHubLink: 'https://captainginny.github.io/HeaderSwiperSlider/',
@@ -56,7 +56,7 @@ const projects = [
     id: 3,
     title: 'Loft_House',
     skills:
-      'Figma, CSS preprocessor SCSS, use mixins and variables, adaptive layout. Layout based on CSS Grid and Flexbox, JS',
+      'Figma, CSS preprocessor SCSS, Use mixins and variables, Adaptive layout, Layout based on CSS Grid and Flexbox, JS',
     img: lofthouse,
     imgBig: lofthouseBig,
     gitHubLink: 'https://captainginny.github.io/Loft-House/',

@@ -176,7 +176,7 @@ html, body {
 	scroll-behavior: auto;
 	background: url('./../img/sunset.jpg');
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	color: var(--white);
 	text-align: center;
 	text-shadow: 2px 5px 0px #000;
@@ -423,12 +423,6 @@ html, body {
 	.title-2 {
 		font-size: 16px;
 	}
-	
-	.header__text {
-		margin-bottom: 1em;
-		font-size: 17px;
-		line-height: 1.333;
-	}
 
 	.project__title {
 		font-size: 16px;
@@ -478,7 +472,12 @@ html, body {
 
 	.header {
 		min-height: 60vh;
-    background-size: auto auto;
+    background-size: cover;
+		background-position: center;
+	}
+
+	.header__wrapper {
+		padding-top: 23vh;
 	}
 
 	.header__title {
@@ -488,6 +487,12 @@ html, body {
 
 	.header__title strong {
 		font-size: 25px;
+	}
+
+	.header__text {
+		margin-bottom: 1em;
+		font-size: 17px;
+		line-height: 1.333;
 	}
 }
 
@@ -504,5 +509,6 @@ html, body {
 
 	.header__wrapper {
 		padding: 10px;
+		padding-top: 23vh;
 	}
 }
